@@ -27,7 +27,7 @@ graph TD;
 
 ```
 graph LR
-    A[Christmas] -->|Get money| B((Go shopping))
+    A[Eid] -->|Get money| B((Go shopping))
     B --> C{Let me think}
     C -->|One| D([Laptop])
     C -->|Two| E[[iPhone]]
@@ -44,7 +44,7 @@ graph LR
 
 ```mermaid
 graph LR
-    A[Christmas] -->|Get money| B((Go shopping))
+    A[Eid] -->|Get money| B((Go shopping))
     B --> C{Let me think}
     C -->|One| D([Laptop])
     C -->|Two| E[[iPhone]]
