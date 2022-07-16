@@ -1,5 +1,8 @@
 # mermaid-test
 
+- https://mermaid-js.github.io
+- https://mermaid.live
+
 ## What is mermaid?
 As describe in mermaid's official website,
 
